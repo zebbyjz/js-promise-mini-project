@@ -1,0 +1,14 @@
+{
+  "name": "promises-mini-project",
+  "version": "1.0.0",
+  "description": "Practice project for getting data from API using promises and async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jehanzaib Rajput",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
